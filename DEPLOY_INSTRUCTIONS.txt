@@ -1,0 +1,40 @@
+================================================
+HITCO WEBSITE - DEPLOYMENT INSTRUCTIONS
+================================================
+
+FILES INCLUDED:
+  - index.html    (main website file)
+  - favicon.png   (browser tab icon)
+
+OPTION 1: CLOUDFLARE PAGES (FREE - RECOMMENDED)
+------------------------------------------------
+1. Go to https://pages.cloudflare.com
+2. Sign up for a free account
+3. Click "Create a project" → "Direct Upload"
+4. Drag and drop BOTH files (index.html + favicon.png)
+5. Click "Deploy"
+6. Your site will be live at: https://your-project.pages.dev
+7. To add custom domain: Settings → Custom Domains → Add
+
+OPTION 2: NETLIFY (FREE)
+------------------------------------------------
+1. Go to https://app.netlify.com
+2. Sign up for a free account  
+3. Drag and drop BOTH files onto the deploy area
+4. Your site will be live instantly
+5. To add custom domain: Domain Settings → Add custom domain
+
+OPTION 3: VERCEL (FREE)
+------------------------------------------------
+1. Go to https://vercel.com
+2. Sign up for a free account
+3. Create new project → Upload files
+4. Deploy
+
+CUSTOM DOMAIN (OPTIONAL - ~$10-15/year):
+------------------------------------------------
+Buy a domain from namecheap.com or godaddy.com
+(e.g. hikmatrd.com or hitco.sa)
+Then connect it in your hosting provider settings.
+
+================================================
